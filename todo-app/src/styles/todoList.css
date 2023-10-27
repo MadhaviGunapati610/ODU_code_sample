@@ -1,0 +1,32 @@
+.item {
+    display: grid;
+    grid-template-columns: auto 1fr; 
+    align-items: center;
+    grid-gap: 4px;
+  }
+  
+  input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  
+  label {
+    font-size: 16px;
+  }
+
+  .item li{
+    list-style: none;
+    display: inline-block;
+    width: 70%;
+  }
+  .delete-button{
+    font-weight: 800;
+    background-color: transparent;
+    border: 1px solid rgb(69, 66, 66);
+    box-shadow: 2px 2px offset rgb(189, 186, 186);
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+
+  
