@@ -1,4 +1,4 @@
-# code_sample_todo_app
+#code_sample_todo_app
 
 I have implemented a sample Todo App using a fake JsonPlaceholder API
 Functionalities:
